@@ -1,0 +1,76 @@
+body
+	{
+	background-color: grey;
+	}
+
+h1
+	{
+	background-color: pink;
+	font-face: rockwell extra bold;
+	font-size: 50px;
+	color: light blue;
+	border: solid
+	border -color: #291BC;
+	border-radius: 30px;
+	}
+
+h2
+	{
+	background-color: pink;
+	font-face: rockwell extra bold;
+	font-size: 15px;
+	color: black;
+	font-family: 'Cookie', cursive;
+	}
+
+h3
+	{
+	background-color: pink;
+	font-face: rockwell extra bold;
+	font-size: 15px;
+	color: black;
+	font-family: 'Cookie', cursive;
+	}
+
+h4
+	{
+	background-color: pink;
+	font-face: rockwell extra bold;
+	font-size: 15px;
+	color: black;
+	font-family: 'Cookie', cursive;
+	}
+
+h5
+	{
+	background-color: pink;
+	font-face: rockwell extra bold;
+	font-size: 15px;
+	color: black;
+	font-family: 'Cookie', cursive;
+	}
+
+p
+	{
+	background-color: pink;
+	font-size: 10px;
+	text-align: center;
+	color: black;
+	font-family: 'Cookie', cursive;
+	}
+
+a:link, a:visited
+		{
+		background-color: black;
+		color: gold;
+		text-align: center;
+		text-decoration: none;
+		border-radius: 25px;
+		padding: 10px;
+		}
+
+a:hover, a:active
+		{
+			background-color: purple
+			color: pink;
+		}
